@@ -1,3 +1,6 @@
-.idea/*
+.idea/
 /vendor
 .vagrant/
+node_modules/
+.env
+Homestead.yaml
